@@ -29,7 +29,7 @@ code {
   
 }
 
-.content, {
+.content {
   border: 5px #e365c1 solid;
   border-radius: 5px;
   font-family: 'Handlee', cursive;
@@ -49,10 +49,6 @@ code {
   font-size: 20px;
   background-color:#f0f0f0;
   padding: 20px;
-}
-
-.fname, .lname, .email, .comments {
-
 }
 
 table {
